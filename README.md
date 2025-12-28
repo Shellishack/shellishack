@@ -15,13 +15,17 @@
 
 ```javascript
 const shellishack = {
-    pronouns: "they/them",
-    location: "🌍 Somewhere awesome",
-    currentFocus: "Building cool stuff that matters",
-    interests: ["Web Development", "Cloud Computing", "AI/ML", "DevOps"],
-    funFact: "I debug with console.log() and I'm not ashamed 😄",
-    lifePhilosophy: "Code is poetry, bugs are just surprise features",
-    coffee: "☕".repeat(Infinity)
+  location: "🦀 Suzhou",
+  currentFocus: "Building cool stuff that matters",
+  interests: [
+    "Full-stack Development",
+    "Automation Platform",
+    "AI Products",
+    "Game Development",
+  ],
+  funFact: "I debug with console.log() and I'm not ashamed 😄",
+  lifePhilosophy: "Code is poetry, bugs are just surprise features",
+  coffee: "☕".repeat(Infinity),
 };
 ```
 
@@ -30,42 +34,63 @@ const shellishack = {
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ModuleFederation](https://img.shields.io/badge/Module_Federation-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![nvm](https://img.shields.io/badge/nvm-8BB9F0?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### Game Engine
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![phaser](https://img.shields.io/badge/Phaser-0083E8?style=for-the-badge&logo=phaser&logoColor=white)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9900E?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![11Labs](https://img.shields.io/badge/11Labs-000000?style=for-the-badge&logo=11labs&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-FF6600?style=for-the-badge&logo=runpod&logoColor=white)
 
 </div>
 
@@ -91,29 +116,27 @@ const shellishack = {
 
 ## 💡 What I'm Up To
 
-- 🔭 Currently working on **exciting open source projects**
-- 🌱 Learning **new technologies and best practices**
+- 🔭 Currently working on **exciting open source projects**, e.g. [Pulse Editor](https://github.com/claypulse/pulse-editor)
+- 🌱 Learning **new technologies** and catching up **latest AI trends**
 - 👯 Looking to collaborate on **innovative projects**
-- 💬 Ask me about **web development, cloud architecture, or anything tech**
-- ⚡ Fun fact: **I can type faster than I can think** 🏃‍♂️💨
+- 💬 Ask me about **full-stack development, AI engineering, cloud architecture, or anything tech**
+- ⚡ Fun fact: **Gaming is fuel for my creativity!** 🎮
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 
-- [ ] Contribute to more open source projects
-- [ ] Master cloud-native development
+- [ ] Push the limits of human-AI collaboration
+- [ ] Start 100 Pulse Apps challenge
 - [ ] Build something that impacts thousands of users
-- [ ] Learn a new programming language
-- [ ] Mentor aspiring developers
+- [ ] Develop a game
+- [ ] Contribute to open source projects and participate in communities
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shellishack)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shellishack)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shellishack.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shellishack.dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shellishack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shellishack/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shellishack)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ellisshang.me)
 
 </div>
 
@@ -128,6 +151,7 @@ const shellishack = {
 ### 🐍 Contribution Snake
 
 <!-- Note: This animation requires a GitHub Actions workflow to generate. See: https://github.com/Platane/snk -->
+
 ![Snake animation](https://raw.githubusercontent.com/Shellishack/Shellishack/output/github-contribution-grid-snake-dark.svg)
 
 ### ⚡ Recent Activity
@@ -138,7 +162,4 @@ const shellishack = {
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-
-**"First, solve the problem. Then, write the code."** – *John Johnson*
-
 </div>
