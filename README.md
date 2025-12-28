@@ -127,6 +127,7 @@ const shellishack = {
 
 ### 🐍 Contribution Snake
 
+<!-- Note: This animation requires a GitHub Actions workflow to generate. See: https://github.com/Platane/snk -->
 ![Snake animation](https://raw.githubusercontent.com/Shellishack/Shellishack/output/github-contribution-grid-snake-dark.svg)
 
 ### ⚡ Recent Activity
