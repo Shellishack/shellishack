@@ -181,7 +181,7 @@ const shellishack = {
 
 <!-- Note: This animation requires a GitHub Actions workflow to generate. See: https://github.com/Platane/snk -->
 
-## ![Snake animation](https://raw.githubusercontent.com/Shellishack/Shellishack/output/github-contribution-grid-snake-dark.svg)
+## ![Snake animation](https://raw.githubusercontent.com/Shellishack/Shellishack/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 </div>
