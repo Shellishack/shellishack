@@ -15,7 +15,7 @@
 
 ```javascript
 const shellishack = {
-  location: "🦀 Suzhou",
+  location: "🏯🏮🛶Suzhou🦀🏞️🌸",
   currentFocus: "Building cool stuff that matters",
   interests: [
     "Full-stack Development",
