@@ -17,7 +17,7 @@
 
 **Check out my projects, experience, and more!**
 
-<img src="https://img.shields.io/badge/👉-transparent?style=for-the-badge&labelColor=transparent&color=transparent" alt="👉"/> [![Visit Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://ellisshang.me) <img src="https://img.shields.io/badge/👈-transparent?style=for-the-badge&labelColor=transparent&color=transparent" alt="👈"/>
+<span style="vertical-align: middle; font-size: 24px;">👉</span> <a href="https://ellisshang.me"><img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge" alt="Visit Portfolio" style="vertical-align: middle;"/></a> <span style="vertical-align: middle; font-size: 24px;">👈</span>
 
 </td>
 </tr>
