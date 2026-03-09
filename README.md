@@ -6,7 +6,22 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Shellishack?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b&color=58a6ff)](https://github.com/Shellishack)
 [![Profile Views](https://komarev.com/ghpvc/?username=Shellishack&style=for-the-badge&color=blueviolet)](https://github.com/Shellishack)
-[![Website](https://img.shields.io/badge/ellisshang.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ellisshang.me)
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+**Check out my projects, experience, and more!**
+
+<img src="https://img.shields.io/badge/👉-transparent?style=for-the-badge&labelColor=transparent&color=transparent" alt="👉"/> [![Visit Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://ellisshang.me) <img src="https://img.shields.io/badge/👈-transparent?style=for-the-badge&labelColor=transparent&color=transparent" alt="👈"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -173,18 +188,6 @@ const shellishack = {
 - [ ] Build something that impacts thousands of users
 - [ ] Develop a game
 - [ ] Contribute to open source projects and participate in communities
-
-## 🌐 Portfolio Website
-
-<div align="center">
-
-> ### ⚡ [**ellisshang.me**](https://ellisshang.me) ⚡
->
-> **Check out my portfolio for projects, experience, and more!**
->
-> [![Visit Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ellisshang.me)
-
-</div>
 
 ## 📫 Connect With Me
 
