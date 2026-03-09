@@ -174,13 +174,24 @@ const shellishack = {
 - [ ] Develop a game
 - [ ] Contribute to open source projects and participate in communities
 
+## 🌐 Portfolio Website
+
+<div align="center">
+
+> ### ⚡ [**ellisshang.me**](https://ellisshang.me) ⚡
+>
+> **Check out my portfolio for projects, experience, and more!**
+>
+> [![Visit Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ellisshang.me)
+
+</div>
+
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shellishack/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shellishack)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ellisshang.me)
 
 </div>
 
