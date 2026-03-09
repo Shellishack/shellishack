@@ -6,6 +6,21 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Shellishack?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b&color=58a6ff)](https://github.com/Shellishack)
 [![Profile Views](https://komarev.com/ghpvc/?username=Shellishack&style=for-the-badge&color=blueviolet)](https://github.com/Shellishack)
+[![Website](https://img.shields.io/badge/ellisshang.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ellisshang.me)
+
+</div>
+
+---
+
+## ✨ Featured Project
+
+<div align="center">
+
+[![Pulse Editor](https://img.shields.io/badge/Pulse_Editor-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claypulse/pulse-editor)
+
+**[Pulse Editor](https://github.com/claypulse/pulse-editor)** — An open-source editor built for the future of human-AI collaboration.
+
+[![Stars](https://img.shields.io/github/stars/claypulse/pulse-editor?style=social)](https://github.com/claypulse/pulse-editor)
 
 </div>
 
