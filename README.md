@@ -27,7 +27,7 @@
 
 ---
 
-## ✨ Featured Project
+## ✨ Featured Projects
 
 <div align="center">
 
@@ -36,6 +36,14 @@
 **[Pulse Editor](https://github.com/claypulse/pulse-editor)** — An open-source editor built for the future of human-AI collaboration.
 
 [![Stars](https://img.shields.io/github/stars/claypulse/pulse-editor?style=social)](https://github.com/claypulse/pulse-editor)
+
+---
+
+[![ClawScale](https://img.shields.io/badge/ClawScale-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ClayPulse/ClawScale)
+
+**[ClawScale](https://github.com/ClayPulse/ClawScale)** — An open-source, self-hostable multi-tenant AI chatbot platform. Deploy a single bot instance across multiple messaging platforms — no user accounts needed.
+
+[![Stars](https://img.shields.io/github/stars/ClayPulse/ClawScale?style=social)](https://github.com/ClayPulse/ClawScale)
 
 </div>
 
