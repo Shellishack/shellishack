@@ -33,7 +33,7 @@
 
 [![Vibebud](https://img.shields.io/badge/Vibebud-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shellishack/vibebud)
 
-**[Vibebud](https://github.com/shellishack/vibebud)** — A project by Shellishack.
+**[Vibebud](https://github.com/shellishack/vibebud)** — Floating AI virtual pets for Codex, Claude Code, and more on desktop and mobile. Visit [vibebud.ai](https://vibebud.ai).
 
 [![Stars](https://img.shields.io/github/stars/shellishack/vibebud?style=social)](https://github.com/shellishack/vibebud)
 
