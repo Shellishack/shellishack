@@ -31,6 +31,14 @@
 
 <div align="center">
 
+[![Vibebud](https://img.shields.io/badge/Vibebud-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shellishack/vibebud)
+
+**[Vibebud](https://github.com/shellishack/vibebud)** — A project by Shellishack.
+
+[![Stars](https://img.shields.io/github/stars/shellishack/vibebud?style=social)](https://github.com/shellishack/vibebud)
+
+---
+
 [![Pulse Editor](https://img.shields.io/badge/Pulse_Editor-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claypulse/pulse-editor)
 
 **[Pulse Editor](https://github.com/claypulse/pulse-editor)** — An open-source editor built for the future of human-AI collaboration.
