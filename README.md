@@ -31,6 +31,14 @@
 
 <div align="center">
 
+[![Infinite Pokémon](https://img.shields.io/badge/Infinite%20Pok%C3%A9mon-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shellishack/infinite-pokemon)
+
+**[Infinite Pokémon](https://github.com/Shellishack/infinite-pokemon)** — A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.
+
+[![Stars](https://img.shields.io/github/stars/Shellishack/infinite-pokemon?style=social)](https://github.com/Shellishack/infinite-pokemon)
+
+---
+
 [![Vibebud](https://img.shields.io/badge/Vibebud-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shellishack/vibebud)
 
 **[Vibebud](https://github.com/shellishack/vibebud)** — Floating AI virtual pets for Codex, Claude Code, and more on desktop and mobile. Visit [vibebud.ai](https://vibebud.ai).
