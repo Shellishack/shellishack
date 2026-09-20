@@ -69,7 +69,7 @@
 
 ```javascript
 const shellishack = {
-  location: "🏯🏮🛶Suzhou🦀🏞️🌸",
+  location: "🏯🏮🛶Shanghai🦀🏞️🌸",
   currentFocus: "Building cool stuff that matters",
   interests: [
     "Full-stack Development",
